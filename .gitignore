@@ -1,0 +1,6 @@
+secrets.env
+model.ipynb
+__pycache__
+*.mp3
+.streamlit/secrets.toml
+*.jpg
