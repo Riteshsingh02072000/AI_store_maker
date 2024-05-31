@@ -1,10 +1,1 @@
-# WordWhiz - AI Story Generator
-
-This LLM powered [streamlit](https://streamlit.io/) application can generate a short story based on few **lines** or an **image** uploaded by the user.
-
-This uses [Clarifai's API](https://www.clarifai.com/) to access the models like GPT-3, GPT-4 and BLIP through their python gRPC client.
-
-## Access the streamlit web application
-
-You can try out the application here - https://wordwhiz.streamlit.app/
-(The application may not load if it has exceeded the free tier usage limit)
+The Gen-AI Story Maker is an innovative project that leverages the power of artificial intelligence to generate creative stories based on user inputs. By integrating the OpenAI API and utilizing the capabilities of Clarifai, this tool allows users to input a prompt and select a preferred genre, resulting in a unique, AI-generated narrative.
